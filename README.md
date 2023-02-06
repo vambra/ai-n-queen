@@ -1,5 +1,5 @@
 # ai-n-queen
 
-Intelektikos dalyko 1 praktinis darbas
+Intelektikos dalyko 2 praktinis darbas
 
 Paleidimui .exe failas
